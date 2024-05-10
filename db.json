@@ -1,7 +1,7 @@
 {
     "gry_planszowe":[
         {
-            "nazwa:":"Star Craft: The board game", 
+            "tresc:":"Star Craft: The board game", 
             "minimalny_wiek": 12,
             "minimalna_liczba_graczy":2,
             "maksymalna_liczba_graczy": 6,
@@ -9,7 +9,7 @@
         },
         
         {
-            "nazwa:":"szachy", 
+            "tresc:":"szachy", 
             "minimalny_wiek": 17,
             "minimalna_liczba_graczy":2,
             "maksymalna_liczba_graczy":3,
@@ -17,7 +17,7 @@
         },
 
         {
-            "nazwa:":"Super Farmer",
+            "tresc:":"Super Farmer",
             "minimalny_wiek":8,
             "minimalna_liczba_graczy":2,
             "maksymalna_liczba_graczy":6,
@@ -25,7 +25,7 @@
         },
 
         {
-            "nazwa:":"Poker (nie na kasę, oczywiście)",
+            "tresc:":"Poker (nie na kasę, oczywiście)",
             "minimalny_wiek":10,
             "minimalna_liczba_graczy":2,
             "maksymalna_liczba_graczy":10,

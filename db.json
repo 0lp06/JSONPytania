@@ -1,13 +1,43 @@
 {
-    "pytania":[{
-        "tresc:":"zawartosc", 
-        "odp": "tak",
-        "odp1":"nie"
-    },
-    {
-        "tresc:":"zawartosc1", 
-        "odp": "tak1",
-        "odp1":"nie2"
-    }
+    "gry_planszowe":[
+        {
+            "nazwa:":"Star Craft: The board game", 
+            "minimalny_wiek": 12,
+            "minimalna_liczba_graczy":2,
+            "maksymalna_liczba_graczy": 6,
+            "Czas_grania":240
+        },
+        
+        {
+            "tresc:":"szachy", 
+            "minimalny_wiek": 4,
+            "minimalna_liczba_graczy":2,
+            "maksymalna_liczba_graczy":3,
+            "Czas_grania": 60
+        },
+
+        {
+            "tresc:":"Super Farmer",
+            "minimalny_wiek":8,
+            "minimalna_liczba_graczy":2,
+            "maksymalna_liczba_graczy":6,
+            "Czas_grania": 30
+        },
+
+        {
+            "tresc:":"Poker (nie na kasę, oczywiście)",
+            "minimalny_wiek":10,
+            "minimalna_liczba_graczy":2,
+            "maksymalna_liczba_graczy":10,
+            "Czas_grania": 10
+        },
+
+        {
+            "tresc:":"Grzybobranie",
+            "minimalny_wiek":3,
+            "minimalna_liczba_graczy":2,
+            "maksymalna_liczba_graczy":4,
+            "Czas_grania": 25
+        }
     ]
 }

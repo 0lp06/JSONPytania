@@ -1,6 +1,13 @@
 {
-    "pytania":{
-        "tresc:":"zawartosc" 
+    "pytania":[{
+        "tresc:":"zawartosc", 
+        "odp": "tak",
+        "odp1":"nie"
     },
-    "cos":[]
+    {
+        "tresc:":"zawartosc1", 
+        "odp": "tak1",
+        "odp1":"nie2"
+    }
+    ]
 }

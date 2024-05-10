@@ -10,7 +10,7 @@
         
         {
             "tresc:":"szachy", 
-            "minimalny_wiek": 12,
+            "minimalny_wiek": 17,
             "minimalna_liczba_graczy":2,
             "maksymalna_liczba_graczy":3,
             "Czas_grania": 60
